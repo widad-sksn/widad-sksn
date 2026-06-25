@@ -1,68 +1,116 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,100:00FF99&text=AHMAD%20WIDAD&fontColor=ffffff&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Linux%20System%20Administrator%20%7C%20DevOps%20Engineer%20%7C%20Backend%20Developer&descAlignY=58"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C853,100:0D1117&height=250&section=header&text=AHMAD%20WIDAD&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Linux%20System%20Administrator%20•%20DevOps%20Engineer%20•%20Network%20Engineer%20•%20Backend%20Developer&descAlignY=58"/>
 
-<p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1200&color=00FF99&center=true&vCenter=true&width=850&lines=Building+Reliable+Infrastructure;Linux+%7C+Docker+%7C+Proxmox+VE;MikroTik+%7C+OpenWRT+%7C+Networking;Laravel+Backend+Developer;Automation+is+Better+Than+Repetition"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1200&color=00FF88&center=true&vCenter=true&width=800&lines=Automating+Infrastructure.;Building+Reliable+Systems.;Linux+%7C+Docker+%7C+Proxmox+VE.;Infrastructure+as+Code."/>
-
-</p>
-
-<p>
+<br>
 
 <a href="mailto:ahmadwidad54@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-ahmadwidad54@gmail.com-181717?style=for-the-badge&logo=gmail&logoColor=00FF88"/>
+<img src="https://img.shields.io/badge/Gmail-ahmadwidad54@gmail.com-181717?style=for-the-badge&logo=gmail&logoColor=00FF99"/>
 </a>
 
 <img src="https://komarev.com/ghpvc/?username=widad-sksn&style=for-the-badge&color=00ff99"/>
-
-</p>
 
 </div>
 
 ---
 
-# $ whoami
+# 💻 whoami
 
 ```bash
 $ whoami
 
 Name        : Ahmad Widad
+
 Role        : Linux System Administrator
-Focus       : DevOps • Infrastructure • Backend
-Location    : Indonesia
-Experience  : Linux, Docker, Proxmox VE, OpenWRT
-Status      : Building Better Infrastructure
+              DevOps Engineer
+              Network Engineer
+              Backend Developer
+
+Focus       : Infrastructure • Automation • Networking
+
+Experience  : Linux, Docker, Proxmox VE,
+              MikroTik, OpenWRT,
+              Laravel, PHP, MySQL
+
+Status      : Building Better Infrastructure 🚀
 ```
 
 ---
 
-# ~/tech-stack
+# ⚡ Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=linux,debian,ubuntu,docker,git,github,ansible,bash,php,laravel,python,mysql,vscode,postman&perline=7"/>
+### Infrastructure
+
+<img src="https://skillicons.dev/icons?i=linux,debian,ubuntu,docker,git,github,bash,ansible&perline=8"/>
+
+### Backend Development
+
+<img src="https://skillicons.dev/icons?i=php,laravel,python,mysql,postgres&perline=5"/>
+
+### Development Tools
+
+<img src="https://skillicons.dev/icons?i=vscode,postman,nginx,apache&perline=4"/>
 
 </div>
 
 ---
 
-# ~/specializations
+# 🌐 Infrastructure & Networking
 
-```text
-├── Linux Administration
-├── Proxmox VE Virtualization
-├── Docker Containerization
-├── Infrastructure Automation
-├── CI/CD Pipeline
-├── Backend Development
-├── OpenWRT Networking
-└── Cloud Computing
+| Technology | Level |
+|------------|:------:|
+| 🐧 Linux Server | ██████████ |
+| 🖥️ Proxmox VE | █████████ |
+| 🐳 Docker | █████████ |
+| 🌐 MikroTik RouterOS | █████████ |
+| 📡 OpenWRT | █████████ |
+| ⚙️ Ansible | ████████ |
+| ☁️ Cloud Computing | ███████ |
+| 🚀 GitHub Actions | ███████ |
+| 🔀 Networking | █████████ |
+| 🏥 Laravel | █████████ |
+| 🐘 PHP | █████████ |
+| 🗄️ MySQL | █████████ |
+
+---
+
+# 🚀 Current Focus
+
+```yaml
+Infrastructure:
+  - Linux Server
+  - Proxmox VE
+  - Docker
+
+Networking:
+  - MikroTik RouterOS
+  - OpenWRT
+  - VPN
+  - VLAN
+  - Routing
+
+Automation:
+  - Bash
+  - Ansible
+  - GitHub Actions
+
+Backend:
+  - Laravel
+  - PHP
+  - MySQL
+
+Cloud:
+  - Virtualization
+  - Infrastructure
 ```
 
 ---
 
-# ~/github-stats
+# 📊 GitHub Analytics
 
 <p align="center">
 
@@ -80,76 +128,78 @@ Status      : Building Better Infrastructure
 
 <p align="center">
 
-<img width="70%" src="https://streak-stats.demolab.com?user=widad-sksn&theme=github-dark-blue&hide_border=true"/>
+<img width="75%" src="https://streak-stats.demolab.com?user=widad-sksn&theme=github-dark-blue&hide_border=true"/>
 
 </p>
 
 ---
 
-# ~/currently-working-on
+# 📂 Featured Projects
 
-```yaml
-Infrastructure:
-  - Linux Servers
-  - Proxmox VE
-  - Docker
+🚀 Lost & Found Dashboard (Laravel)
 
-Automation:
-  - Bash
-  - Ansible
-  - GitHub Actions
+🏥 Hospital Information System
 
-Networking:
-  - OpenWRT
-  - VPN
-  - Routing
+🖥️ Proxmox VE Homelab
 
-Backend:
-  - Laravel
-  - PHP
-  - Python
-```
+🌐 MikroTik Network Configuration
 
----
-
-# ~/featured-projects
-
-🚀 Lost & Found Dashboard
-
-⚙️ Proxmox Homelab
+📡 OpenWRT Router Configuration
 
 🐳 Docker Compose Collection
 
-🌐 OpenWRT Configuration
+⚙️ Infrastructure Automation
 
-📦 Infrastructure Automation
+☁️ Cloud Computing Lab
 
 ---
 
-# ~/terminal
+# 📈 Learning Progress
 
-```bash
-$ uptime
+```text
+Linux Administration     ████████████████████ 100%
 
-Learning Linux.............. ████████████ 100%
+Docker                   ██████████████████░░ 90%
 
-Docker...................... ███████████░ 95%
+Proxmox VE               █████████████████░░░ 85%
 
-Proxmox VE.................. ██████████░░ 90%
+MikroTik                 █████████████████░░░ 85%
 
-Networking.................. █████████░░░ 85%
+OpenWRT                  █████████████████░░░ 85%
 
-Automation.................. ████████░░░░ 80%
+Networking               █████████████████░░░ 85%
 
-Cloud........................██████░░░░░░ 70%
+Laravel                  ██████████████████░░ 90%
+
+PHP                      ██████████████████░░ 90%
+
+MySQL                    ██████████████████░░ 90%
+
+Automation               ███████████████░░░░░ 75%
+
+Cloud Computing          ██████████████░░░░░░ 70%
+
+Kubernetes               █████████░░░░░░░░░░░ 40%
 ```
+
+---
+
+# 🎯 Goals
+
+- Build Scalable Infrastructure
+- Master Kubernetes
+- Master Terraform
+- Learn GitOps
+- Contribute to Open Source
+- Achieve Cloud Certifications
+- Build Enterprise Homelab
 
 ---
 
 <div align="center">
 
-### "Infrastructure First. Automation Always."
+## 💚 "Infrastructure First. Automation Always."
 
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:0D1117,100:00FF99"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00C853&height=120&section=footer"/>
 
 </div>
