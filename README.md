@@ -1,117 +1,155 @@
 <div align="center">
 
-# Hi 👋, I'm Ahmad Widad
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,100:00FF99&text=AHMAD%20WIDAD&fontColor=ffffff&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Linux%20System%20Administrator%20%7C%20DevOps%20Engineer%20%7C%20Backend%20Developer&descAlignY=58"/>
 
-### Linux System Administrator • DevOps Enthusiast • Backend Developer
+<p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=3FB950&center=true&vCenter=true&width=700&lines=Linux+System+Administrator;DevOps+Enthusiast;Backend+Developer;Proxmox+VE+%7C+Docker+%7C+Ansible;Always+Learning+New+Things" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1200&color=00FF88&center=true&vCenter=true&width=800&lines=Automating+Infrastructure.;Building+Reliable+Systems.;Linux+%7C+Docker+%7C+Proxmox+VE.;Infrastructure+as+Code."/>
+
+</p>
+
+<p>
+
+<a href="mailto:ahmadwidad54@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-ahmadwidad54@gmail.com-181717?style=for-the-badge&logo=gmail&logoColor=00FF88"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=widad-sksn&style=for-the-badge&color=00ff99"/>
+
+</p>
 
 </div>
 
 ---
 
-## 🚀 About Me
+# $ whoami
 
-🎓 Informatics Student at Universitas 'Aisyiyah Yogyakarta
+```bash
+$ whoami
 
-💻 Passionate about:
-
-* Linux Administration
-* DevOps Engineering
-* Cloud Computing
-* Backend Development
-* Infrastructure Automation
-
-🌱 Currently Learning
-
-* Kubernetes
-* Terraform
-* CI/CD
-* Cloud Native Technologies
-
----
-
-## ⚙️ Tech Stack
-
-### Operating System
-
-<p>
-<img src="https://skillicons.dev/icons?i=linux,ubuntu,debian"/>
-</p>
-
-### DevOps & Infrastructure
-
-<p>
-<img src="https://skillicons.dev/icons?i=docker,git,github,ansible,bash"/>
-</p>
-
-### Backend Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=php,laravel,python,mysql"/>
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=vscode,postman"/>
-</p>
-
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=widad-sksn&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=widad-sksn&layout=compact&theme=github_dark&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=widad-sksn&theme=github-dark-blue&hide_border=true"/>
-
-</p>
-
----
-
-## 📌 Featured Technologies
-
-```text
-🖥️ Linux Server
-🐳 Docker
-📦 Proxmox VE
-⚙️ Ansible
-🌐 OpenWRT
-🚀 GitHub Actions
-☁️ Cloud Computing
-🛠️ Laravel
+Name        : Ahmad Widad
+Role        : Linux System Administrator
+Focus       : DevOps • Infrastructure • Backend
+Location    : Indonesia
+Experience  : Linux, Docker, Proxmox VE, OpenWRT
+Status      : Building Better Infrastructure
 ```
 
 ---
 
-## 📫 Contact Me
+# ~/tech-stack
 
-📧 **Email**
+<div align="center">
 
-**[ahmadwidad54@gmail.com](mailto:ahmadwidad54@gmail.com)**
+<img src="https://skillicons.dev/icons?i=linux,debian,ubuntu,docker,git,github,ansible,bash,php,laravel,python,mysql,vscode,postman&perline=7"/>
+
+</div>
 
 ---
 
-## 🎯 2026 Goals
+# ~/specializations
 
-* Become a Professional DevOps Engineer
-* Master Kubernetes & Terraform
-* Build a Complete Homelab
-* Contribute to Open Source Projects
-* Earn Cloud & Linux Certifications
+```text
+├── Linux Administration
+├── Proxmox VE Virtualization
+├── Docker Containerization
+├── Infrastructure Automation
+├── CI/CD Pipeline
+├── Backend Development
+├── OpenWRT Networking
+└── Cloud Computing
+```
+
+---
+
+# ~/github-stats
+
+<p align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=widad-sksn&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=widad-sksn&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img width="97%" src="https://github-readme-activity-graph.vercel.app/graph?username=widad-sksn&theme=github-dark&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img width="70%" src="https://streak-stats.demolab.com?user=widad-sksn&theme=github-dark-blue&hide_border=true"/>
+
+</p>
+
+---
+
+# ~/currently-working-on
+
+```yaml
+Infrastructure:
+  - Linux Servers
+  - Proxmox VE
+  - Docker
+
+Automation:
+  - Bash
+  - Ansible
+  - GitHub Actions
+
+Networking:
+  - OpenWRT
+  - VPN
+  - Routing
+
+Backend:
+  - Laravel
+  - PHP
+  - Python
+```
+
+---
+
+# ~/featured-projects
+
+🚀 Lost & Found Dashboard
+
+⚙️ Proxmox Homelab
+
+🐳 Docker Compose Collection
+
+🌐 OpenWRT Configuration
+
+📦 Infrastructure Automation
+
+---
+
+# ~/terminal
+
+```bash
+$ uptime
+
+Learning Linux.............. ████████████ 100%
+
+Docker...................... ███████████░ 95%
+
+Proxmox VE.................. ██████████░░ 90%
+
+Networking.................. █████████░░░ 85%
+
+Automation.................. ████████░░░░ 80%
+
+Cloud........................██████░░░░░░ 70%
+```
 
 ---
 
 <div align="center">
 
-### 💡 "Keep Learning, Keep Building, Keep Growing."
+### "Infrastructure First. Automation Always."
+
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:0D1117,100:00FF99"/>
 
 </div>
