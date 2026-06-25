@@ -1,169 +1,66 @@
+# Hi 👋 I'm Ahmad Widad Saksana
 
-# Ahmad Widad
-
-> Linux System Administrator • DevOps Enthusiast • Network Engineer • Backend Developer
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1200&color=00FF88&center=true&vCenter=true&width=900&lines=Building+Reliable+Infrastructure;Linux+%7C+Proxmox+VE+%7C+Docker;MikroTik+%7C+OpenWRT+%7C+Networking;Odoo+ERP+%7C+Laravel+Development;Automation+Driven+Infrastructure" />
-</p>
-
-<p align="center">
-<a href="mailto:ahmadwidad54@gmail.com"><img src="https://img.shields.io/badge/Email-ahmadwidad54@gmail.com-181717?style=for-the-badge&logo=gmail&logoColor=00FF88"></a>
-<img src="https://komarev.com/ghpvc/?username=widad-sksn&style=for-the-badge&color=00ff88">
-</p>
+### 🚀 About Me
+I am passionate about designing, deploying, and maintaining reliable IT infrastructure. My experience includes Linux server administration, enterprise virtualization, network engineering, ERP customization, backend development, and infrastructure automation.
 
 ---
 
-# 💻 Terminal
+### 🛠 Tech Stack
 
-```console
-root@github:~$ whoami
-Ahmad Widad
-
-root@github:~$ hostname
-github.com/widad-sksn
-
-root@github:~$ cat profile.yml
-
-roles:
-  - Linux System Administrator
-  - DevOps Enthusiast
-  - Network Engineer
-  - Backend Developer
-
-specialization:
-  - Enterprise Linux
-  - Proxmox VE Infrastructure
-  - MikroTik
-  - OpenWRT
-  - Docker
-  - Odoo ERP
-  - Laravel
-```
+| Category | Technologies |
+| :--- | :--- |
+| **Infrastructure & Virtualization** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Proxmox](https://img.shields.io/badge/Proxmox_VE-E57014?style=flat-square&logo=proxmox&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) |
+| **Networking** | ![MikroTik](https://img.shields.io/badge/MikroTik-000000?style=flat-square&logo=mikrotik&logoColor=white) ![OpenWrt](https://img.shields.io/badge/OpenWrt-22AEE5?style=flat-square&logo=openwrt&logoColor=white) `VPN` `VLAN` `Routing & Firewall` |
+| **Backend & ERP** | ![Odoo](https://img.shields.io/badge/Odoo-714B67?style=flat-square&logo=odoo&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| **Databases** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) |
 
 ---
 
-# 🚀 About
+### 💼 Professional Experience
 
-I enjoy designing, deploying and maintaining reliable infrastructure.
-My interests span Linux administration, enterprise virtualization,
-network engineering, infrastructure automation and backend development.
+#### 🌐 Enterprise Infrastructure & Networking
+* **Enterprise Virtualization:** Managing cluster-scale Proxmox VE virtualization infrastructure across multi-node datacenters.
+* **Server Administration:** Deployment, hardening, and maintenance of Linux enterprise servers.
+* **Containerization & Automation:** Orchestrating applications using Docker containers and streamlining workflows via Bash scripting & Ansible.
+* **Network Engineering:** Network architecture planning, MikroTik RouterOS advanced configuration, OpenWrt gateway deployment, secure VPN tunnels, VLAN segmentation, and firewall mitigation.
 
----
-
-# 🛠 Tech Stack
-
-<table>
-<tr>
-<td align="center">
-
-### Infrastructure
-
-<img src="https://skillicons.dev/icons?i=linux,ubuntu,debian,docker,ansible,bash" />
-
-</td>
-<td align="center">
-
-### Backend
-
-<img src="https://skillicons.dev/icons?i=php,laravel,python,mysql,postgres" />
-
-</td>
-</tr>
-
-<tr>
-<td align="center">
-
-### Networking
-
-**MikroTik • OpenWRT • VPN • VLAN • Routing**
-
-</td>
-
-<td align="center">
-
-### Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,nginx,apache" />
-
-</td>
-</tr>
-</table>
+#### 💻 ERP & Backend Development
+* **Odoo ERP:** Customization, module development, and deployment tailored for business logic requirements.
+* **Backend Frameworks:** Developing secure and scalable web applications using Laravel and core PHP.
+* **Database Management:** Database design, optimization, and query tuning for MySQL and PostgreSQL.
 
 ---
 
-# 🏢 Professional Experience
+### 🚀 Featured Projects
 
-### Enterprise Infrastructure
-
-- Managing Proxmox VE virtualization infrastructure
-- Linux server administration
-- Docker deployment & maintenance
-
-### Network Administration
-
-- MikroTik configuration
-- OpenWRT gateway management
-- VPN, VLAN & Routing
-
-### ERP & Backend
-
-- Odoo ERP customization
-- Laravel backend development
-- PHP & MySQL application maintenance
+| Project Name | Technology Stack | Description |
+| :--- | :--- | :--- |
+| **📦 Lost & Found Management System** | `Odoo ERP` `Python` | Custom ERP module designed to track and manage lost items efficiently. |
+| **🖥️ Enterprise Virtualization** | `Proxmox VE` `Linux` | High-availability multi-node server deployment for production environments. |
+| **🌐 Advanced Network Gateway** | `MikroTik` `OpenWrt` | Implementation of secure routing, custom firewalls, and optimized gateway environments. |
+| **🐳 Container Platform Deployment** | `Docker` `Docker Compose` | Microservices isolation and deployment automation for campus/research services. |
+| **⚙️ Infrastructure Automation** | `Bash` `Ansible` | Automated playbook recipes for fast server provisioning and configuration management. |
 
 ---
 
-# 📂 Featured Projects
-
-- 🏢 Lost & Found Management System (Odoo ERP)
-- 🖥️ Enterprise Proxmox VE Infrastructure
-- 🌐 MikroTik Network Administration
-- 📡 OpenWRT Gateway Configuration
-- 🐳 Docker Deployment Collection
-- ⚙️ Infrastructure Automation Scripts
-
----
-
-# 📊 GitHub Analytics
+### 📊 GitHub Analytics
 
 <p align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=widad-sksn&show_icons=true&theme=github_dark&hide_border=true"/>
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=widad-sksn&layout=compact&theme=github_dark&hide_border=true"/>
-</p>
-
-<p align="center">
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=widad-sksn&theme=github-dark&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=widad-sksn&theme=github-dark-blue&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=widad-sksn&theme=algolia&no-frame=true&row=1&column=6"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmadwidad&show_icons=true&theme=tokyonight&count_private=true" alt="Widad's GitHub Stats" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadwidad&layout=compact&theme=tokyonight" alt="Top Languages" height="180px" />
 </p>
 
 ---
 
-# 🐍 Contribution Snake
+### 📫 Connect With Me
 
-Add this image after creating the GitHub Actions workflow:
+<p align="left">
+  <a href="mailto:ahmadwidad54@gmail.com">
+    <img src="https://img.shields.io/badge/Email-ahmadwidad54@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME_HERE" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
 
-```md
-![Snake](https://raw.githubusercontent.com/widad-sksn/widad-sksn/output/github-contribution-grid-snake-dark.svg)
-```
-
----
-
-# 📫 Contact
-
-- 📧 ahmadwidad54@gmail.com
-
----
-
-<div align="center">
-
-### Infrastructure First • Automation Always • Keep Learning
-
-</div>
+> *"Building Reliable Infrastructure Through Automation."*
