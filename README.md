@@ -1,112 +1,94 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C853,100:0D1117&height=250&section=header&text=AHMAD%20WIDAD&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Linux%20System%20Administrator%20•%20DevOps%20Engineer%20•%20Network%20Engineer%20•%20Backend%20Developer&descAlignY=58"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1200&color=00FF99&center=true&vCenter=true&width=850&lines=Building+Reliable+Infrastructure;Linux+%7C+Docker+%7C+Proxmox+VE;MikroTik+%7C+OpenWRT+%7C+Networking;Laravel+Backend+Developer;Automation+is+Better+Than+Repetition"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0D1117,100:00C853&text=AHMAD%20WIDAD&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Linux%20System%20Administrator%20%7C%20DevOps%20Enthusiast%20%7C%20Network%20Engineer%20%7C%20Backend%20Developer&descAlignY=58"/>
 
 <br>
 
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&pause=1000&color=00FF88&center=true&vCenter=true&width=900&lines=Building+Reliable+Infrastructure;Linux+%7C+Proxmox+VE+%7C+Docker;MikroTik+%7C+OpenWRT+%7C+Networking;Odoo+ERP+%7C+Laravel+Development;Infrastructure+Automation+%26+Continuous+Learning"/>
+
+<br><br>
+
 <a href="mailto:ahmadwidad54@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-ahmadwidad54@gmail.com-181717?style=for-the-badge&logo=gmail&logoColor=00FF99"/>
+<img src="https://img.shields.io/badge/Email-ahmadwidad54%40gmail.com-181717?style=for-the-badge&logo=gmail&logoColor=00FF88"/>
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=widad-sksn&style=for-the-badge&color=00ff99"/>
+<img src="https://komarev.com/ghpvc/?username=widad-sksn&style=for-the-badge&color=00ff88"/>
 
 </div>
 
 ---
 
-# 💻 whoami
+# 💻 `whoami`
 
-```bash
-$ whoami
+```yaml
+Name: Ahmad Widad
 
-Name        : Ahmad Widad
+Role:
+  - Linux System Administrator
+  - DevOps Enthusiast
+  - Network Engineer
+  - Backend Developer
 
-Role        : Linux System Administrator
-              DevOps Engineer
-              Network Engineer
-              Backend Developer
+Specialization:
+  - Linux Infrastructure
+  - Enterprise Virtualization
+  - Network Administration
+  - Infrastructure Automation
+  - ERP Development
 
-Focus       : Infrastructure • Automation • Networking
-
-Experience  : Linux, Docker, Proxmox VE,
-              MikroTik, OpenWRT,
-              Laravel, PHP, MySQL
-
-Status      : Building Better Infrastructure 🚀
+Current Focus:
+  - Proxmox VE
+  - Docker
+  - MikroTik
+  - OpenWRT
+  - Odoo
+  - Laravel
 ```
 
 ---
 
 # ⚡ Tech Stack
 
-<div align="center">
+<p align="center">
 
-### Infrastructure
+<img src="https://skillicons.dev/icons?i=linux,debian,ubuntu,docker,git,github,bash,ansible"/>
 
-<img src="https://skillicons.dev/icons?i=linux,debian,ubuntu,docker,git,github,bash,ansible&perline=8"/>
+<br><br>
 
-### Backend Development
+<img src="https://skillicons.dev/icons?i=php,laravel,python,mysql,postgres"/>
 
-<img src="https://skillicons.dev/icons?i=php,laravel,python,mysql,postgres&perline=5"/>
+<br><br>
 
-### Development Tools
+<img src="https://skillicons.dev/icons?i=vscode,postman,nginx,apache"/>
 
-<img src="https://skillicons.dev/icons?i=vscode,postman,nginx,apache&perline=4"/>
-
-</div>
+</p>
 
 ---
 
-# 🌐 Infrastructure & Networking
+# 🏗 Infrastructure & Expertise
 
-| Technology | Level |
-|------------|:------:|
-| 🐧 Linux Server | ██████████ |
-| 🖥️ Proxmox VE | █████████ |
-| 🐳 Docker | █████████ |
-| 🌐 MikroTik RouterOS | █████████ |
-| 📡 OpenWRT | █████████ |
-| ⚙️ Ansible | ████████ |
-| ☁️ Cloud Computing | ███████ |
-| 🚀 GitHub Actions | ███████ |
-| 🔀 Networking | █████████ |
-| 🏥 Laravel | █████████ |
-| 🐘 PHP | █████████ |
-| 🗄️ MySQL | █████████ |
+| Area                | Technologies                          |
+| ------------------- | ------------------------------------- |
+| 🖥️ Virtualization  | Proxmox VE                            |
+| 🐧 Operating System | Linux, Ubuntu Server, Debian          |
+| 🌐 Networking       | MikroTik, OpenWRT, VPN, VLAN, Routing |
+| 🐳 Containers       | Docker                                |
+| ⚙️ Automation       | Bash, Ansible, GitHub Actions         |
+| 💻 Backend          | Laravel, PHP, Python                  |
+| 🏢 ERP              | Odoo                                  |
+| 🗄 Database         | MySQL, PostgreSQL                     |
+| 🔧 Version Control  | Git & GitHub                          |
 
 ---
 
-# 🚀 Current Focus
+# 🚀 What I'm Working On
 
-```yaml
-Infrastructure:
-  - Linux Server
-  - Proxmox VE
-  - Docker
-
-Networking:
-  - MikroTik RouterOS
-  - OpenWRT
-  - VPN
-  - VLAN
-  - Routing
-
-Automation:
-  - Bash
-  - Ansible
-  - GitHub Actions
-
-Backend:
-  - Laravel
-  - PHP
-  - MySQL
-
-Cloud:
-  - Virtualization
-  - Infrastructure
-```
+* 🖥️ Managing and maintaining Proxmox VE virtualization infrastructure
+* 🌐 Configuring MikroTik and OpenWRT network environments
+* 🏢 Developing and customizing Odoo ERP modules
+* 🚀 Building backend applications using Laravel and PHP
+* 🐳 Deploying containerized services with Docker
+* ⚙️ Automating infrastructure using Bash and Ansible
 
 ---
 
@@ -122,7 +104,7 @@ Cloud:
 
 <p align="center">
 
-<img width="97%" src="https://github-readme-activity-graph.vercel.app/graph?username=widad-sksn&theme=github-dark&hide_border=true"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=widad-sksn&theme=github-dark&hide_border=true"/>
 
 </p>
 
@@ -136,70 +118,45 @@ Cloud:
 
 # 📂 Featured Projects
 
-🚀 Lost & Found Dashboard (Laravel)
+### 🏢 Enterprise Systems
 
-🏥 Hospital Information System
+* Lost & Found Management System (Odoo ERP)
+* Academic Information System Support
 
-🖥️ Proxmox VE Homelab
+### 🖥️ Infrastructure
 
-🌐 MikroTik Network Configuration
+* Proxmox VE Virtualization Infrastructure
+* Docker Deployment & Container Management
+* Infrastructure Automation Scripts
 
-📡 OpenWRT Router Configuration
+### 🌐 Networking
 
-🐳 Docker Compose Collection
-
-⚙️ Infrastructure Automation
-
-☁️ Cloud Computing Lab
-
----
-
-# 📈 Learning Progress
-
-```text
-Linux Administration     ████████████████████ 100%
-
-Docker                   ██████████████████░░ 90%
-
-Proxmox VE               █████████████████░░░ 85%
-
-MikroTik                 █████████████████░░░ 85%
-
-OpenWRT                  █████████████████░░░ 85%
-
-Networking               █████████████████░░░ 85%
-
-Laravel                  ██████████████████░░ 90%
-
-PHP                      ██████████████████░░ 90%
-
-MySQL                    ██████████████████░░ 90%
-
-Automation               ███████████████░░░░░ 75%
-
-Cloud Computing          ██████████████░░░░░░ 70%
-
-Kubernetes               █████████░░░░░░░░░░░ 40%
-```
+* MikroTik Network Administration
+* OpenWRT Gateway Configuration
+* VPN & Routing Configuration
 
 ---
 
-# 🎯 Goals
+# 🎯 Current Learning
 
-- Build Scalable Infrastructure
-- Master Kubernetes
-- Master Terraform
-- Learn GitOps
-- Contribute to Open Source
-- Achieve Cloud Certifications
-- Build Enterprise Homelab
+* Kubernetes
+* Terraform
+* GitOps
+* High Availability Infrastructure
+* Cloud Native Technologies
+
+---
+
+# 📫 Contact
+
+📧 **[ahmadwidad54@gmail.com](mailto:ahmadwidad54@gmail.com)**
 
 ---
 
 <div align="center">
 
-## 💚 "Infrastructure First. Automation Always."
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00C853&height=120&section=footer"/>
+## <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=3000&color=00FF88&center=true&vCenter=true&width=500&lines=Infrastructure+First.;Automation+Always.;Keep+Learning."/>
 
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:00C853,100:0D1117"/>
