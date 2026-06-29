@@ -87,15 +87,48 @@ My primary interests include:
 
 ---
 
-# 📈 Contribution Graph
+---
+
+# 💚 Favorite Technologies
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmadwidad&theme=github-compact&hide_border=true"/>
+<img src="https://skillicons.dev/icons?i=linux,docker,php,laravel,python,mysql,postgres,bash,git,github"/>
 
 </div>
 
 ---
+
+# 🌱 Currently Learning
+
+- Kubernetes
+- Terraform
+- CI/CD
+- High Availability
+- Cloud Computing
+- Monitoring
+
+---
+
+<div align="center">
+
+## 📫 Connect With Me
+
+<a href="https://github.com/ahmadwidad">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ Building systems that are simple, reliable, and scalable.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00FF99&height=120&section=footer"/>
+
+</div>
 
 # 💚 Favorite Technologies
 
