@@ -152,21 +152,3 @@ My primary interests include:
 ---
 
 <div align="center">
-
-## 📫 Connect With Me
-
-<a href="https://github.com/ahmadwidad">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### ⭐ Building systems that are simple, reliable, and scalable.
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00FF99&height=120&section=footer"/>
-
-</div>
