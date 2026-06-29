@@ -130,25 +130,3 @@ My primary interests include:
 
 </div>
 
-# 💚 Favorite Technologies
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=linux,docker,php,laravel,python,mysql,postgres,bash,git,github"/>
-
-</div>
-
----
-
-# 🌱 Currently Learning
-
-- Kubernetes
-- Terraform
-- CI/CD
-- High Availability
-- Cloud Computing
-- Monitoring
-
----
-
-<div align="center">
