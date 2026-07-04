@@ -1,0 +1,26 @@
+name: GitHub Space Shooter
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Menjalankan pembaruan otomatis setiap tengah malam
+  workflow_dispatch:    # Tombol manual untuk menjalankan aksi
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Generate Space Shooter Animation
+        uses: czl9707/gh-space-shooter@main
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit and Push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add space-shooter.svg
+          git commit -m "Update Space Shooter Animation" || exit 0
+          git push
