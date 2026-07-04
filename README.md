@@ -77,8 +77,8 @@ My primary interests include:
 
 <div align="center">
 
-<!-- Menampilkan file gambar static yang Anda minta -->
-<img src="widad-sksn-space-shooter.jpg" alt="GitHub Space Shooter Visualization" />
+<!-- Ekstensi diubah menjadi .gif menyesuaikan file yang di-upload -->
+<img src="widad-sksn-space-shooter.gif" alt="GitHub Space Shooter Visualization" />
 
 </div>
 
