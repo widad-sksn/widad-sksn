@@ -8,7 +8,7 @@
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=ahmadwidad&label=Profile%20Views&color=00FF99&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=widad-sksn&label=Profile%20Views&color=00FF99&style=for-the-badge"/>
 
 </div>
 
@@ -75,19 +75,19 @@ My primary interests include:
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ahmadwidad&show_icons=true&theme=transparent&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=widad-sksn&show_icons=true&theme=transparent&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadwidad&layout=compact&theme=transparent&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=widad-sksn&layout=compact&theme=transparent&hide_border=true"/>
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=ahmadwidad&theme=transparent&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=widad-sksn&theme=transparent&hide_border=true"/>
 
 <br><br>
 
 <!-- GitHub Space Shooter -->
 <a href="https://github.com/czl9707/gh-space-shooter">
-<img src="https://raw.githubusercontent.com/ahmadwidad/ahmadwidad/main/space-shooter.svg" alt="Space Shooter Contribution Graph" width="100%"/>
+<img src="https://raw.githubusercontent.com/widad-sksn/widad-sksn/main/space-shooter.gif" alt="Space Shooter Contribution Graph" width="100%"/>
 </a>
 
 </div>
@@ -121,7 +121,7 @@ My primary interests include:
 
 ## 📫 Connect With Me
 
-<a href="https://github.com/ahmadwidad">
+<a href="https://github.com/widad-sksn">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
