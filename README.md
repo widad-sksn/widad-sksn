@@ -71,14 +71,15 @@ My primary interests include:
 
 ---
 
+---
+
 # 📊 GitHub Statistics
 
 <div align="center">
-
-<a href="https://github.com/czl9707/gh-space-shooter">
-<img src="https://raw.githubusercontent.com/widad-sksn/widad-sksn/main/game.gif" alt="Space Shooter Contribution Graph" width="100%"/>
-</a>
-
+  <a href="https://github.com/czl9707/gh-space-shooter">
+    <!-- Menggunakan pemanggilan lokal 'game.gif' -->
+    <img src="game.gif" alt="Space Shooter Contribution Graph" width="100%"/>
+  </a>
 </div>
 
 ---
