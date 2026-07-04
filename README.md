@@ -75,13 +75,8 @@ My primary interests include:
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=widad-sksn&theme=transparent&hide_border=true"/>
-
-<br><br>
-
-<!-- GitHub Space Shooter -->
 <a href="https://github.com/czl9707/gh-space-shooter">
-<img src="https://raw.githubusercontent.com/widad-sksn/widad-sksn/main/space-shooter.gif" alt="Space Shooter Contribution Graph" width="100%"/>
+<img src="https://raw.githubusercontent.com/widad-sksn/widad-sksn/main/game.gif" alt="Space Shooter Contribution Graph" width="100%"/>
 </a>
 
 </div>
