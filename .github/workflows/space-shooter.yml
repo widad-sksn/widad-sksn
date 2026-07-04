@@ -1,24 +1,23 @@
-name: GitHub Space Shooter
+name: Update Space Shooter Game
 
 on:
   schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch: # Tombol untuk menjalankan manual
+    - cron: '0 0 * * *'  # Daily at midnight UTC
+  workflow_dispatch:  # Allow manual trigger
 
 permissions:
-  contents: write    # SANGAT PENTING: Mengizinkan bot menyimpan file gambar ke repo
+  contents: write
 
 jobs:
   update-game:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v6
         with:
-          fetch-depth: 2 # Wajib ada agar riwayat commit terbaca
+          fetch-depth: 2  # This is crucial!
 
-      - name: Generate Space Shooter Animation
-        uses: czl9707/gh-space-shooter@v2
+      - uses: czl9707/gh-space-shooter@v2
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
-          output-path: 'space-shooter.gif' # Disimpan dalam format GIF
+          output-path: 'game.gif'
+          strategy: 'random'
