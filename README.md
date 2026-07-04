@@ -83,6 +83,13 @@ My primary interests include:
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=ahmadwidad&theme=transparent&hide_border=true"/>
 
+<br><br>
+
+<!-- GitHub Space Shooter -->
+<a href="https://github.com/czl9707/gh-space-shooter">
+<img src="https://raw.githubusercontent.com/ahmadwidad/ahmadwidad/main/space-shooter.svg" alt="Space Shooter Contribution Graph" width="100%"/>
+</a>
+
 </div>
 
 ---
@@ -129,4 +136,3 @@ My primary interests include:
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF99&height=120&section=footer"/>
 
 </div>
-
