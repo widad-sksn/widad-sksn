@@ -8,7 +8,7 @@
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=widad-sksn&label=Profile%20Views&color=00FF99&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=ahmadwidad&label=Profile%20Views&color=00FF99&style=for-the-badge"/>
 
 </div>
 
@@ -37,12 +37,14 @@ My primary interests include:
 <p align="center">
 <img src="https://skillicons.dev/icons?i=linux,docker,bash,git,github,nginx,ansible" />
 </p>
+<br>
 
 ### 💻 Backend
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=php,laravel,python,mysql,postgres" />
 </p>
+<br>
 
 ### 🌐 Networking
 
@@ -71,15 +73,13 @@ My primary interests include:
 
 ---
 
----
-
 # 📊 GitHub Statistics
 
 <div align="center">
-  <a href="https://github.com/czl9707/gh-space-shooter">
-    <!-- Menggunakan pemanggilan lokal 'game.gif' -->
-    <img src="game.gif" alt="Space Shooter Contribution Graph" width="100%"/>
-  </a>
+
+<!-- Menampilkan file gambar static yang Anda minta -->
+<img src="widad-sksn-space-shooter.jpg" alt="GitHub Space Shooter Visualization" />
+
 </div>
 
 ---
@@ -111,7 +111,7 @@ My primary interests include:
 
 ## 📫 Connect With Me
 
-<a href="https://github.com/widad-sksn">
+<a href="https://github.com/ahmadwidad">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
