@@ -1,28 +1,29 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&stroke=0284c7&strokeWidth=2&height=180&section=header&text=Ahmad%20Widad&fontSize=46&fontColor=38bdf8&animation=fadeIn&fontAlignY=40&desc=%3E_Infrastructure%20Engineer%20%7C%20Backend%20Developer%20%7C%20Linux%20Enthusiast&descAlignY=65&descSize=15&descColor=94a3b8" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&stroke=0284c7&strokeWidth=2&height=190&section=header&text=Ahmad%20Widad&fontSize=46&fontColor=38bdf8&animation=fadeIn&fontAlignY=38&desc=%3E_Infrastructure%20Engineer%20%7C%20Backend%20Developer%20%7C%20Linux%20Enthusiast&descAlignY=65&descSize=15&descColor=94a3b8" width="100%" />
 
 <a href="https://github.com/ahmadwidad">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1200&color=38BDF8&background=0D111700&center=true&vCenter=true&width=650&lines=%24+sys.load_profile(%22Ahmad+Widad%22)%3B;%24+cluster.status%3A+Proxmox+VE+%7C+Docker+Active%3B;%24+net.gateway%3A+MikroTik+%7C+OpenWrt+Online%3B;%24+motto%3A+%22Automate+or+stay+debugging+forever.%22" alt="Terminal Typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1200&color=38BDF8&background=0D111700&center=true&vCenter=true&width=700&lines=%24+proxmox.cluster_status%3A+HEALTHY;%24+docker.containers--running%3A+ALL;%24+net.gateway--mikroTik%3A+CONNECTED;%24+security.honeypot%3A+MONITORING_ACTIVE" alt="Terminal Typing" />
 </a>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ahmadwidad&label=SYS_HITS&color=0284c7&style=flat-square" />
-  <img src="https://img.shields.io/badge/HOST-DEBIAN_%2F_ARCH-0f172a?style=flat-square&logo=linux&logoColor=38bdf8" />
+  <img src="https://img.shields.io/badge/NODE-PROXMOX_VE-E57014?style=flat-square&logo=proxmox&logoColor=white" />
+  <img src="https://img.shields.io/badge/KERNEL-DEBIAN_%2F_ARCH-0f172a?style=flat-square&logo=linux&logoColor=38bdf8" />
   <img src="https://img.shields.io/badge/UPTIME-99.9%25-0f172a?style=flat-square&logo=uptimekuma&logoColor=38bdf8" />
-  <img src="https://img.shields.io/badge/STATUS-OPERATIONAL-0284c7?style=flat-square" />
+  <img src="https://img.shields.io/badge/SECURITY-NIST_SP_800--86-0284c7?style=flat-square" />
 </p>
 
 </div>
 
 ---
 
-### 🖥️ System Overview
+### ┌── 🖥️ [ ~/sys/profile-specs.conf ] ────────────────────────────────────────┐
 
 ```bash
-# cat /etc/widad/profile.conf
-[Identity]
-Role        = Infrastructure Engineer & Backend Specialist
-Focus       = High-Availability Hypervisors, Microsegmentation & Resilient APIs
-Environments= Bare-metal, Proxmox VE, Docker Nodes
-Philosophy  = "If you configure it more than twice, write a script."
+# cat /etc/widad/system-specifications.env
+USER_IDENTITY="Ahmad Widad Saksana"
+CAMPUS_AFFILIATION="Universitas 'Aisyiyah Yogyakarta (UNISA)"
+LAB_DEPARTMENTS="IT Laboratory & BPTSI Department"
+CORE_FOCUS="Infrastructure Virtualization, Network Routing & Secure Backend Architecture"
+SECURITY_FRAMEWORK="NIST SP 800-86 (SSH Brute-Force & Cowrie Honeypot Analysis)"
