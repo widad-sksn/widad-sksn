@@ -12,15 +12,15 @@
 
 </div>
 
----
+<br>
 
 <div align="center">
 
-### `Infrastructure • Networking • Linux • Backend`
+`L I N U X` &nbsp;&nbsp; `I N F R A S T R U C T U R E` &nbsp;&nbsp; `N E T W O R K I N G` &nbsp;&nbsp; `B A C K E N D`
 
 </div>
 
-<br>
+---
 
 ## About
 
@@ -28,7 +28,7 @@ I'm an **Infrastructure Engineer and Backend Developer** interested in Linux sys
 
 Currently working at **LifeMedia**, focusing on infrastructure, servers, networking, deployment, and system operations.
 
-I work across infrastructure and application layers — from managing Linux servers and virtual machines to configuring networks, deploying applications, and automating operational tasks.
+I work across both infrastructure and application layers — from managing Linux servers and virtual machines to configuring networks, deploying applications, and automating operational tasks.
 
 ---
 
@@ -130,6 +130,16 @@ Shell scripting, deployment automation, CI/CD, infrastructure tooling, and opera
 
 ---
 
+## GitHub Activity
+
+<div align="center">
+
+<img src="./widad-sksn-space-shooter.gif" alt="GitHub Activity" width="850"/>
+
+</div>
+
+---
+
 ## Current Focus
 
 <div align="center">
@@ -177,6 +187,6 @@ Shell scripting, deployment automation, CI/CD, infrastructure tooling, and opera
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=120&color=0:7C3AED,25:5B21B6,50:4338CA,75:1D4ED8,100:050816&section=footer&stroke=6366F1&strokeWidth=1"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=130&color=0:7C3AED,25:5B21B6,50:4338CA,75:1D4ED8,100:050816&section=footer&stroke=6366F1&strokeWidth=1"/>
 
 </div>
