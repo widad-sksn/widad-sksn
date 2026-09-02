@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D47A1,50:1565C0,100:7B1FA2&height=220&section=header&text=AHMAD%20WIDAD&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Infrastructure%20Engineer%20%7C%20Backend%20Developer%20%7C%20Linux%20Enthusiast&descAlignY=60&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050B18,25:0D47A1,55:1565C0,80:5E35B1,100:7B1FA2&height=230&section=header&text=AHMAD%20WIDAD&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Infrastructure%20Engineer%20%7C%20Backend%20Developer%20%7C%20Linux%20Enthusiast&descAlignY=60&descSize=18"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3500&pause=1000&color=64B5F6&center=true&vCenter=true&width=800&lines=Linux+%7C+Proxmox+VE+%7C+Docker;Networking+%7C+Automation+%7C+Backend;Infrastructure+%7C+Deployment+%7C+Monitoring" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3500&pause=1000&color=64B5F6&center=true&vCenter=true&width=800&lines=Linux+%7C+Proxmox+VE+%7C+Docker;Networking+%7C+Automation+%7C+Backend;Infrastructure+%7C+Deployment+%7C+Monitoring"/>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=ahmadwidad&label=PROFILE%20VIEWS&color=1565C0&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=ahmadwidad&label=PROFILE%20VIEWS&color=5E35B1&style=for-the-badge"/>
 
 </div>
 
@@ -199,6 +199,8 @@ DevOps            CI/CD & Containers
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D47A1,50:1565C0,100:7B1FA2&height=120&section=footer"/>
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B1FA2,25:5E35B1,50:1565C0,75:0D47A1,100:050B18&height=150&section=footer"/>
 
 </div>
