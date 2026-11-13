@@ -61,7 +61,13 @@ Infrastructure Engineer and Backend Developer specializing in production server 
 
 ---
 
-## 🛠️ Technical Arsenal
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,bash,docker,nginx,php,laravel,python,mysql,postgres,redis,git,githubactions&theme=dark" />
+</p>
+
+<br>
 
 <table width="100%">
 <tr>
@@ -70,13 +76,13 @@ Infrastructure Engineer and Backend Developer specializing in production server 
 <h4>🖥️ Systems &amp; Virtualization</h4>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,bash,docker,nginx,ansible&theme=dark" />
-</p>
-<p align="center">
   <img src="https://img.shields.io/badge/Proxmox_VE-E57014?style=flat-square&logo=proxmox&logoColor=white"/>
   <img src="https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white"/>
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white"/>
+  <br>
   <img src="https://img.shields.io/badge/KVM%2FLXC-0284C7?style=flat-square&logo=linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white"/>
 </p>
 
 </td>
@@ -88,11 +94,10 @@ Infrastructure Engineer and Backend Developer specializing in production server 
   <img src="https://img.shields.io/badge/MikroTik_RouterOS-224488?style=flat-square&logo=mikrotik&logoColor=white"/>
   <img src="https://img.shields.io/badge/WireGuard-8800FF?style=flat-square&logo=wireguard&logoColor=white"/>
   <img src="https://img.shields.io/badge/OpenWrt-00B5E2?style=flat-square&logo=openwrt&logoColor=white"/>
-</p>
-<p align="center">
+  <br>
   <img src="https://img.shields.io/badge/VLAN_Segmentation-0284C7?style=flat-square&logo=cisco&logoColor=white"/>
   <img src="https://img.shields.io/badge/Firewall_Rules-DC2626?style=flat-square&logo=fortinet&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FTTH_Optical-F59E0B?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FTTH_Optical-F59E0B?style=flat-square&logo=speedtest&logoColor=white"/>
 </p>
 
 </td>
@@ -103,13 +108,13 @@ Infrastructure Engineer and Backend Developer specializing in production server 
 <h4>⚡ Backend &amp; Data Layer</h4>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,python,mysql,postgres,redis&theme=dark" />
-</p>
-<p align="center">
   <img src="https://img.shields.io/badge/PHP_8.x-777BB4?style=flat-square&logo=php&logoColor=white"/>
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/REST_APIs-0284C7?style=flat-square&logo=fastapi&logoColor=white"/>
+  <br>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
 </p>
 
 </td>
@@ -118,10 +123,10 @@ Infrastructure Engineer and Backend Developer specializing in production server 
 <h4>🚀 DevOps &amp; Observability</h4>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=kubernetes,terraform,githubactions,grafana,git,github&theme=dark" />
-</p>
-<p align="center">
+  <img src="https://img.shields.io/badge/Linux_Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git_%26_GitHub-F05032?style=flat-square&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
+  <br>
   <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white"/>
   <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white"/>
   <img src="https://img.shields.io/badge/High_Availability-10B981?style=flat-square&logo=statuspage&logoColor=white"/>
