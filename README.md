@@ -11,30 +11,41 @@
 <img src="https://komarev.com/ghpvc/?username=widad-sksn&label=PROFILE%20VIEWS&color=0284C7&style=for-the-badge"/>
 &nbsp;
 <img src="https://img.shields.io/badge/Status-Available_for_Projects-0B1120?style=for-the-badge&logo=statuspage&logoColor=22C55E"/>
-&nbsp;
+
+<br><br>
+
 <img src="https://img.shields.io/badge/Specialization-Infra_%26_Backend-0B1120?style=for-the-badge&logo=linux&logoColor=38BDF8"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Virtualization-Proxmox_VE-0B1120?style=for-the-badge&logo=proxmox&logoColor=E57014"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Network-MikroTik_RouterOS-0B1120?style=for-the-badge&logo=mikrotik&logoColor=38BDF8"/>
 
 </div>
 
 <br>
 
 ```bash
-widad@sys-node01:~$ neofetch --profile
-       _,met$$$$$gg.          widad@sys-node01
-    ,g$$$$$$$$$$$$$$$P.       ----------------
-  ,g$$P"     """Y$$.".        OS       : Debian 12 (Bookworm) / Proxmox VE
- ,$$P'              `$$$.     Kernel   : Linux 6.8 LTS x86_64
-',$$P       ,ggs.     `$$b:   Uptime   : 99.99% High Availability
-`d$$'     ,$P"'   .    $$$    Roles    : Infrastructure Engineer · SysAdmin · Backend Dev
- $$P      d$'     ,    $$P    Network  : MikroTik RouterOS · VLAN · WireGuard · FTTH
- $$:      $$.   -    ,d$$'    Stack    : Linux · Docker · Laravel · Python · Bash
- $$;      Y$b._   _,d$P'      Status   : 🟢 Active · Ready for Infrastructure & Code
- Y$$.    `.`"Y$$$$P"'
-  `$$b      "-.__
-   `Y$$
-    `$$b.
-      `"Y$b._
-          `"""
+widad@pve-node01:~$ neofetch --profile
+         .://:`              `://:.         widad@pve-node01
+       `hMMMMMMd/          /dMMMMMMh`       ----------------
+        `sMMMMMMMd:      :mMMMMMMMs`        OS       : Proxmox VE 8.x / Debian 12 (Bookworm)
+`-/+oo+/:`.yMMMMMMMh-  -hMMMMMMMy.`:/+oo+/-`  Kernel   : Linux 6.8.8-pve (x86_64)
+`:oooooooo/`-hMMMMMMMyyMMMMMMMh-`/oooooooo:`  Host     : Proxmox Virtual Environment (PVE)
+  `/oooooooo:`:mMMMMMMMMMMMMm:`:oooooooo/`    Uptime   : 99.99% High Availability
+    ./ooooooo+- +NMMMMMMMMN+ -+ooooooo/.      Cluster  : Quorum OK (HA Managed)
+      .+ooooooo+-`oNMMMMNo`-+ooooooo+.        Hyperv   : KVM (QEMU) · LXC Containers
+        -+ooooooo/.`sMMs`./ooooooo+-          Storage  : ZFS Pool · Ceph · NVMe Local-LVM
+          :oooooooo/`..`/oooooooo:            Network  : MikroTik RouterOS · VLAN · WireGuard · FTTH
+          :oooooooo/`..`/oooooooo:            Stack    : Linux · Docker · Laravel · Python · Bash
+        -+ooooooo/.`sMMs`./ooooooo+-          Roles    : Infrastructure Engineer · SysAdmin · Backend
+      .+ooooooo+-`oNMMMMNo`-+ooooooo+.        Status   : 🟢 Active · Production Cluster Online
+    ./ooooooo+- +NMMMMMMMMN+ -+ooooooo/.
+  `/oooooooo:`:mMMMMMMMMMMMMm:`:oooooooo/`
+`:oooooooo/`-hMMMMMMMyyMMMMMMMh-`/oooooooo:`
+`-/+oo+/:`.yMMMMMMMh-  -hMMMMMMMy.`:/+oo+/-`
+        `sMMMMMMMm:      :dMMMMMMMs`
+       `hMMMMMMd/          /dMMMMMMh`
+         `://:`              `://:`
 ```
 
 ---
@@ -54,9 +65,10 @@ Infrastructure Engineer and Backend Developer specializing in production server 
 
 <table width="100%">
 <tr>
-<td width="50%" valign="top">
+<td width="50%" align="center" valign="top">
 
-### 🖥️ Systems & Virtualization
+<h4>🖥️ Systems &amp; Virtualization</h4>
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=linux,bash,docker,nginx,ansible&theme=dark" />
 </p>
@@ -64,13 +76,14 @@ Infrastructure Engineer and Backend Developer specializing in production server 
   <img src="https://img.shields.io/badge/Proxmox_VE-E57014?style=flat-square&logo=proxmox&logoColor=white"/>
   <img src="https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white"/>
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white"/>
+  <img src="https://img.shields.io/badge/KVM%2FLXC-0284C7?style=flat-square&logo=linux&logoColor=white"/>
 </p>
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" align="center" valign="top">
 
-### 🌐 Network & Security
+<h4>🌐 Network &amp; Security</h4>
+
 <p align="center">
   <img src="https://img.shields.io/badge/MikroTik_RouterOS-224488?style=flat-square&logo=mikrotik&logoColor=white"/>
   <img src="https://img.shields.io/badge/WireGuard-8800FF?style=flat-square&logo=wireguard&logoColor=white"/>
@@ -85,9 +98,10 @@ Infrastructure Engineer and Backend Developer specializing in production server 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" align="center" valign="top">
 
-### ⚡ Backend & Data Layer
+<h4>⚡ Backend &amp; Data Layer</h4>
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=php,laravel,python,mysql,postgres,redis&theme=dark" />
 </p>
@@ -99,9 +113,10 @@ Infrastructure Engineer and Backend Developer specializing in production server 
 </p>
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" align="center" valign="top">
 
-### 🚀 DevOps, Cloud & Observability
+<h4>🚀 DevOps &amp; Observability</h4>
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=kubernetes,terraform,githubactions,grafana,git,github&theme=dark" />
 </p>
