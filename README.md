@@ -8,7 +8,7 @@
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=ahmadwidad&label=PROFILE%20VIEWS&color=4F46E5&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=widad-sksn&label=PROFILE%20VIEWS&color=4F46E5&style=for-the-badge"/>
 
 </div>
 
@@ -175,7 +175,7 @@ Shell scripting, deployment automation, CI/CD, infrastructure tooling, and opera
 
 <div align="center">
 
-<a href="https://github.com/ahmadwidad">
+<a href="https://github.com/widad-sksn">
 
 <img src="https://img.shields.io/badge/GitHub-@awidad-sksn-111827?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
 
