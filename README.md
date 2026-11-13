@@ -9,7 +9,7 @@
 <br><br>
 
 <img src="https://komarev.com/ghpvc/?username=widad-sksn&label=PROFILE%20VIEWS&color=4F46E5&style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Company-LifeMedia-0B1120?style=for-the-badge&logo=target&logoColor=60A5FA"/>
+<img src="https://img.shields.io/badge/Status-Available_for_Projects-0B1120?style=for-the-badge&logo=statuspage&logoColor=22C55E"/>
 <img src="https://img.shields.io/badge/Role-Infrastructure_%26_Backend-0B1120?style=for-the-badge&logo=linux&logoColor=38BDF8"/>
 
 </div>
@@ -17,11 +17,11 @@
 <br>
 
 ```text
-widad@lifemedia-node01:~# neofetch
+widad@infra-node01:~# neofetch
 -----------------------------------
 OS         : Debian / Ubuntu Server / Proxmox VE
 Role       : Infrastructure Engineer & Backend Developer
-Host       : LifeMedia Enterprise Infrastructure
+Host       : Linux Infrastructure & Cloud Cluster
 Network    : MikroTik RouterOS | FTTH | VLAN | WireGuard
 Stack      : Linux · Docker · PHP / Laravel · Python · Bash
 Uptime     : 99.9% High Availability
@@ -34,7 +34,7 @@ Status     : Deploying & Automating 🚀
 
 I'm an **Infrastructure Engineer and Backend Developer** specializing in Linux server administration, enterprise networking, virtualization, and backend application development.
 
-- 🏢 Currently engineering infrastructure and operational deployments at **LifeMedia**.
+- 🏢 Specializing in production server infrastructure, virtualization clusters, and network operations.
 - 🛠️ Bridging the gap between hardware/virtualization layers and application backend code.
 - 🎯 Core focus: Server hardening, network routing & security, high availability, and operational automation.
 
@@ -131,7 +131,7 @@ I'm an **Infrastructure Engineer and Backend Developer** specializing in Linux s
 - MikroTik RouterOS deployment, bandwidth queuing, and BGP/OSPF.
 - Enterprise VLAN segmentation & network firewall policies.
 - Secure site-to-site VPN tunnels (WireGuard, IPsec, OpenVPN).
-- FTTH infrastructure support and ISP network operations.
+- FTTH deployment support and enterprise network operations.
 
 </td>
 </tr>
