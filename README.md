@@ -8,17 +8,20 @@
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=widad-sksn&label=PROFILE%20VIEWS&color=0284C7&style=for-the-badge"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Status-Available_for_Projects-0B1120?style=for-the-badge&logo=statuspage&logoColor=22C55E"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Specialization-Infra_%26_Backend-0B1120?style=for-the-badge&logo=linux&logoColor=38BDF8"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Virtualization-Proxmox_VE-0B1120?style=for-the-badge&logo=proxmox&logoColor=E57014"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Network-MikroTik_RouterOS-0B1120?style=for-the-badge&logo=mikrotik&logoColor=38BDF8"/>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=widad-sksn&label=PROFILE%20VIEWS&color=0284C7&style=for-the-badge"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/STATUS-ACTIVE%20%E2%97%8F%20AVAILABLE-10B981?style=for-the-badge&logo=statuspage&logoColor=white&labelColor=0F172A"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/CLUSTER-99.99%25%20HA-6366F1?style=for-the-badge&logo=serverfault&logoColor=white&labelColor=0F172A"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/ROLE-INFRA%20%26%20BACKEND-8B5CF6?style=for-the-badge&logo=linux&logoColor=white&labelColor=0F172A"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/HYPERVISOR-PROXMOX%20VE-E57014?style=for-the-badge&logo=proxmox&logoColor=white&labelColor=0F172A"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/NETWORK-MIKROTIK%20ROUTEROS-00B5E2?style=for-the-badge&logo=mikrotik&logoColor=white&labelColor=0F172A"/>
+</p>
 
 </div>
 
