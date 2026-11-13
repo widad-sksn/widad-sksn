@@ -72,6 +72,8 @@ Infrastructure Engineer and Backend Developer specializing in production server 
 
 <br>
 
+<div align="center">
+
 <table width="100%">
 <tr>
 <td width="50%" align="center" valign="top">
@@ -94,13 +96,13 @@ Infrastructure Engineer and Backend Developer specializing in production server 
 <h4>🌐 Network &amp; Security</h4>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/MikroTik_RouterOS-224488?style=flat-square&logo=mikrotik&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MikroTik-224488?style=flat-square&logo=mikrotik&logoColor=white"/>
   <img src="https://img.shields.io/badge/WireGuard-8800FF?style=flat-square&logo=wireguard&logoColor=white"/>
   <img src="https://img.shields.io/badge/OpenWrt-00B5E2?style=flat-square&logo=openwrt&logoColor=white"/>
   <br>
-  <img src="https://img.shields.io/badge/VLAN_Segmentation-0284C7?style=flat-square&logo=cisco&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firewall_Rules-DC2626?style=flat-square&logo=fortinet&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FTTH_Optical-F59E0B?style=flat-square&logo=speedtest&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VLAN-0284C7?style=flat-square&logo=cisco&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firewall-DC2626?style=flat-square&logo=fortinet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FTTH-F59E0B?style=flat-square&logo=speedtest&logoColor=white"/>
 </p>
 
 </td>
@@ -132,12 +134,14 @@ Infrastructure Engineer and Backend Developer specializing in production server 
   <br>
   <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white"/>
   <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white"/>
-  <img src="https://img.shields.io/badge/High_Availability-10B981?style=flat-square&logo=statuspage&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HA_Cluster-10B981?style=flat-square&logo=statuspage&logoColor=white"/>
 </p>
 
 </td>
 </tr>
 </table>
+
+</div>
 
 ---
 
