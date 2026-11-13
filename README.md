@@ -177,7 +177,7 @@ Shell scripting, deployment automation, CI/CD, infrastructure tooling, and opera
 
 <a href="https://github.com/ahmadwidad">
 
-<img src="https://img.shields.io/badge/GitHub-@ahmadwidad-111827?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/GitHub-@awidad-sksn-111827?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
 
 </a>
 
